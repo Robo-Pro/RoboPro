@@ -171,6 +171,17 @@ footer{
     color: #000051;
 }
 
+.textfirsthalf2024{
+    font-size: 23px;
+    margin-top: 35px;
+    margin-left: 25px;
+    text-align: justify;
+    width: 100%;
+    margin-right: 3%;
+    vertical-align: middle;
+    color: #000051;
+}
+
 .secondcontainer{
     display: -webkit-flex;
     display: flex;
